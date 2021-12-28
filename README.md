@@ -10,7 +10,7 @@ turns go counterclockwise
 
 when you run out of cards, shuffle your discard into your deck
 
-each player starts of with 6 cards
+each player starts off with 6 cards
 
 every turn starts with a card draw, and then playing cards
 
